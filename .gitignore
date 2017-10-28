@@ -1,3 +1,14 @@
-.idea
+# Output
+target/
+
+# Dependencies
+node_modules/
+
+# IDE
+.idea/
+.project
+.classpath
 *.iml
+
+# System
 .DS_Store
